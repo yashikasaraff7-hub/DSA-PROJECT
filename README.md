@@ -226,53 +226,81 @@ O((V+E)logV)
 9. Screenshots of Execution
 Screenshot
  – Main Dashboard
+
 <img width="696" height="428" alt="image" src="https://github.com/user-attachments/assets/ee7a23b3-fd85-41eb-b9c6-9282366120f9" />
 
 Screenshot 1 – Add Crops
+
 <img width="338" height="138" alt="image" src="https://github.com/user-attachments/assets/d09afad3-32d6-4c57-ab1e-2465a43ee8bb" />
 
 Screenshot 2 – Display Crops
+
+
 <img width="346" height="134" alt="image" src="https://github.com/user-attachments/assets/a047dad7-df9d-48b3-847e-5f848f706839" />
 
 Screenshot 3 – Search Crop
+
+
 <img width="314" height="76" alt="image" src="https://github.com/user-attachments/assets/c3d7635b-7b65-405c-8939-334d4c4a9b7e" />
 
 
 Screenshot 4 – Sort by health
+
+
 <img width="440" height="90" alt="image" src="https://github.com/user-attachments/assets/d1c1036e-2266-49a6-b017-87331a25dd91" />
 
 Screenshot 5 – Irrigation Crop
+
+
 <img width="512" height="128" alt="image" src="https://github.com/user-attachments/assets/eb41eb84-365f-47df-bc7f-b3a5f78bdf8a" />
 
 Screenshot 6  – Showing last Irrigation 
+
+
 <img width="476" height="88" alt="image" src="https://github.com/user-attachments/assets/42fa5015-7cd8-43c9-80e4-4a4016a0e523" />
 
 
 Screenshot 7– Add Alert
+
+
 <img width="554" height="120" alt="image" src="https://github.com/user-attachments/assets/fa5244ae-245c-442b-890d-d58010988c56" />
 
 
 Screenshot 8 – Process Alert
+
+
 <img width="678" height="110" alt="image" src="https://github.com/user-attachments/assets/aad515cd-2cfa-4c96-b1fe-1763897fddb5" />
 
 
 Screenshot 9– Hash Search 
+
+
 <img width="362" height="104" alt="image" src="https://github.com/user-attachments/assets/a3919694-15bd-4617-b723-7814591405bd" />
 
 
 Screenshot 10 – BFS Traversal
+
+
 <img width="368" height="74" alt="image" src="https://github.com/user-attachments/assets/3ca5354d-6f8f-4d79-8f8d-c0247f6ad332" />
 
 Screenshot 11– DFS Traversal
+
+
 <img width="328" height="112" alt="image" src="https://github.com/user-attachments/assets/d09199c9-9eed-4567-bebb-f984cdde53ca" />
 
 Screenshot 12 - Dijkstra Algorithm 
+
+
 <img width="564" height="256" alt="image" src="https://github.com/user-attachments/assets/087e4597-cd86-4e51-b80c-520b3e354a4d" />
 
 Screenshot 13- AVL Tree
+
+
 <img width="362" height="232" alt="image" src="https://github.com/user-attachments/assets/81df2974-585f-49cc-8ef5-b0a1881ead02" />
 
 Screenshot 14 - Exit
+
+
 <img width="362" height="78" alt="image" src="https://github.com/user-attachments/assets/ef79914d-b389-4f51-b550-f3a39339665a" />
 
 
@@ -299,6 +327,5 @@ The project demonstrates practical implementation of Sorting, Searching, Stack, 
 The system improves crop management, irrigation planning, resource allocation, and route optimization while supporting data-driven farming decisions.
 Overall, the project contributes to modern smart agriculture by improving productivity, reducing resource wastage, and enhancing operational efficiency.
 
-12. GitHub Repository
-https://github.com/yashikasaraff7-hub/DSA-PROJECT 
+
 
